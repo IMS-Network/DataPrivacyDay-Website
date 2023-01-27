@@ -13,3 +13,8 @@
    font-display: swap;
    src: url('HE 3/font.ttf');
 }
+@font-face {
+   font-family: 'HE 5';
+   font-display: swap;
+   src: url('HE 5/font.ttf');
+}

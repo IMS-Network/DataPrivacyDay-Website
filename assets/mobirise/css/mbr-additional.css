@@ -22,7 +22,7 @@ body {
   font-size: 5.3125rem;
 }
 .display-4 {
-  font-family: 'Spline Sans Mono', monospace;
+  font-family: 'HE 5';
   font-size: 2rem;
   line-height: 1.25;
   letter-spacing: -0.01em;
@@ -45,7 +45,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   line-height: 1.4;
-  letter-spacing: -0.01em;
+  letter-spacing: 1px;
   word-spacing: -0.15em;
 }
 .display-7 > .mbr-iconfont {
@@ -589,7 +589,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Spline Sans Mono', monospace;
+  font-family: 'HE 5';
   font-size: 2rem;
   line-height: 1.25;
   letter-spacing: -0.01em;
@@ -605,7 +605,7 @@ a:hover {
   border-color: #fcdb42 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Spline Sans Mono', monospace;
+  font-family: 'HE 5';
   font-size: 2rem;
   line-height: 1.25;
   letter-spacing: -0.01em;
