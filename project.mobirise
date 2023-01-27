@@ -35,7 +35,13 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.7.12",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Spline Sans Mono', monospace",
+        "name": "Spline Sans Mono",
+        "url": "https://fonts.googleapis.com/css?family=Spline+Sans+Mono:300,400,500,600,700,300i,400i,500i,600i,700i"
+      }
+    ],
     "imageResize": true,
     "mcSmartCart": {
       "currency": "USD"
