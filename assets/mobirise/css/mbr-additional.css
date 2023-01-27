@@ -25,7 +25,7 @@ body {
   font-family: 'HE 5';
   font-size: 2rem;
   line-height: 1.25;
-  letter-spacing: -0.01em;
+  letter-spacing: 1px;
   word-spacing: -0.15em;
 }
 .display-4 > .mbr-iconfont {
@@ -592,7 +592,7 @@ a:hover {
   font-family: 'HE 5';
   font-size: 2rem;
   line-height: 1.25;
-  letter-spacing: -0.01em;
+  letter-spacing: 1px;
   word-spacing: -0.15em;
   font-weight: 400;
 }
@@ -608,7 +608,7 @@ a:hover {
   font-family: 'HE 5';
   font-size: 2rem;
   line-height: 1.25;
-  letter-spacing: -0.01em;
+  letter-spacing: 1px;
   word-spacing: -0.15em;
   font-weight: 400;
 }
