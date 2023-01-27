@@ -2,7 +2,7 @@ body {
   font-family: Spline Sans Mono;
 }
 .display-1 {
-  font-family: 'Spline Sans Mono', monospace;
+  font-family: 'HE 1';
   font-size: 8rem;
   line-height: 1.1;
   letter-spacing: -0.015em;
@@ -12,7 +12,7 @@ body {
   font-size: 10rem;
 }
 .display-2 {
-  font-family: 'Spline Sans Mono', monospace;
+  font-family: 'HE 2';
   font-size: 4.25rem;
   line-height: 1.15;
   letter-spacing: -0.015em;
@@ -32,7 +32,7 @@ body {
   font-size: 2.5rem;
 }
 .display-5 {
-  font-family: 'Spline Sans Mono', monospace;
+  font-family: 'HE 3';
   font-size: 2.5rem;
   line-height: 1.25;
   letter-spacing: -0.05em;
@@ -42,14 +42,14 @@ body {
   font-size: 3.125rem;
 }
 .display-7 {
-  font-family: 'Spline Sans Mono', monospace;
-  font-size: 1.125rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
   line-height: 1.4;
   letter-spacing: -0.01em;
   word-spacing: -0.15em;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.40625rem;
+  font-size: 1.25rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -83,9 +83,9 @@ body {
     line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 0.9rem;
-    font-size: calc( 1.04375rem + (1.125 - 1.04375) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.04375rem + (1.125 - 1.04375) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
